@@ -1,0 +1,24 @@
+## Análise de Comportamento de Clientes em uma Fintech
+
+**Objetivo:**
+Analisar o comportamento dos clientes de uma fintech e determinar o melhor momento para lançar um novo produto.
+
+**Dataset:**
+* **Fonte:** Banco de dados da Bankverse
+* **Conteúdo:** Dados de transações, interações dos usuários e informações demográficas
+
+**Ferramentas:**
+* **Metabase:** Versão [versão]
+* **SQL:** Utilizar SQL para realizar as consultas e análises.
+
+**Etapas:**
+1. **Conectar ao banco de dados:** ...
+2. **Criar as visualizações:** ...
+3. **Analisar os resultados:** ...
+4. **Elaborar a proposta:** ...
+
+
+**Entrega:**
+* **Dashboard:** Apresentar um dashboard interativo no Metabase.
+* **Relatório:** Elaborar um relatório conciso e claro, com as principais conclusões e recomendações.
+
